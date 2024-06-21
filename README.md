@@ -26,7 +26,7 @@ DNS Switcher is a Python script with a graphical user interface (GUI) built usin
 
 ## Usage
 
-1. Launch the `dns_switcher.exe` file.
+1. Launch the `dns_switcher.exe` file with administrative privileges.
 2. Click on the **Enable Cloudflare DNS** button to set the DNS settings to use Cloudflare's DNS servers.
 3. Click on the **Disable Cloudflare DNS** button to reset the DNS settings back to default.
 
